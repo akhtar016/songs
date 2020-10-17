@@ -1,5 +1,7 @@
 # Simple Song app with Redux
 
+Song details will be avaiable on selecting each button of songs.
+
 ## Available Scripts
 
 In the project directory, you can run:
